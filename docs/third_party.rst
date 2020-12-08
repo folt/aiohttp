@@ -125,6 +125,10 @@ support to aiohttp web servers.
 - `aiohttp-swaggerify <https://github.com/dchaplinsky/aiohttp_swaggerify>`_
   Library to automatically generate swagger2.0 definition for aiohttp endpoints.
 
+- `aio-openapi <https://github.com/quantmind/aio-openapi>`_
+  Asynchronous web middleware for aiohttp and serving Rest APIs with OpenAPI v3
+  specification and with optional PostgreSql database bindings.
+
 - `rororo <https://github.com/playpauseandstop/rororo>`_
   Implement ``aiohttp.web`` OpenAPI 3 server applications with schema first
   approach. Python 3.6+ required.
